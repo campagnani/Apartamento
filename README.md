@@ -23,32 +23,32 @@ Localização:
 
 Portal Arboretto: Rua Onze, N° 20.
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/1-maps.png)
+![Google Maps](https://campagnani.github.io/Apartamento/1-maps.png)
 
 Cozinha:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/2-cozinha.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/2-cozinha.jpg)
 
 Sala:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/3-sala.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/3-sala.jpg)
 
 Cinema:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/4-cinema.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/4-cinema.jpg)
 
 Lavanderia:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/5-lavanderia.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/5-lavanderia.jpg)
 
 Banheiro:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/6-banheiro.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/6-banheiro.jpg)
 
 Área externa:
 
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/condominio0.jpg)
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/condominio1.jpg)
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/condominio2.jpg)
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/condominio3.jpg)
-![Google Maps](https://github.com/campagnani/Apartamento/blob/main/condominio4.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/condominio0.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/condominio1.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/condominio2.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/condominio3.jpg)
+![Google Maps](https://campagnani.github.io/Apartamento/condominio4.jpg)
