@@ -4,7 +4,7 @@ Alugo quarto em apartamento mobiliado em condomio fechado, perto do parque de ex
 
 Vantagens:
 1. Apartamento todo mobiliado.
-2. Quarto a ser ocupado também mobiliado, conta com: cama box, guarda-roupa com porta de correr, mesa grande e liminária.
+2. Quarto a ser ocupado também mobiliado, conta com: cama box, guarda-roupa com porta de correr, mesa larga e luminária.
 3. Condominio fechado conta com:
 - Portaria 24h;
 - Jardineiro e zelador;
@@ -21,7 +21,7 @@ Vídeo do quarto e apartamento:
 
 Localização:
 
-Portal Arboretto: Rua Onze, N° 20.
+Condomínio Portal Arboretto: Rua Onze, N° 20.
 
 ![Google Maps](https://campagnani.github.io/Apartamento/1-maps.png)
 
